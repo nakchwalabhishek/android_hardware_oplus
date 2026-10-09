@@ -97,3 +97,5 @@ type vendor_proc_ultrasound, fs_type, proc_type;
 
 # Versioning
 type vendor_proc_oplus_version, fs_type, proc_type;
+
+type vendor_sysfs_soc_sensitive, fs_type, sysfs_type, vendor_file_type;
