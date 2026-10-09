@@ -4,6 +4,9 @@
 //
 
 soong_namespace {
+    imports: [
+        "hardware/google/pixel",
+    ],
 }
 
 prebuilt_hidl_interfaces {
